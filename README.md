@@ -12,6 +12,7 @@
 运行教程：[《SpringBoot+MySQL+HTML图书管理系统运行教程》](https://mp.weixin.qq.com/s/y5TytE8Y3Y1UfxAJ0JHrvw)
 
 
+毕设项目源码大全：[毕业设计、课程设计项目源码领取](https://mp.weixin.qq.com/mp/homepage?__biz=MzkyMDAxNTQ4NQ==&hid=5&sn=097a81acff1e1971604ea1b571c13b9e&scene=18)
 
 
 ## 01 系统概述
