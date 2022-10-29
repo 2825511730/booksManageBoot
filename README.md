@@ -1,7 +1,7 @@
 @文章目录[toc]
 
 
-![微信扫码关注这个有温度的程序猿](https://img-blog.csdnimg.cn/c5b40e17bc614f5d99a5d6e179a0447b.png =100%x)
+![微信扫码关注这个有温度的程序猿](https://img-blog.csdnimg.cn/c5b40e17bc614f5d99a5d6e179a0447b.png)
 
 
 源码下载：微信搜索公众号【`IT学长`】，回复关键词“`20220927`”下载图书管理系统（booksManageBoot）源码
